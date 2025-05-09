@@ -5,3 +5,4 @@ A free, open-source web application that generates UML diagrams based on PocketB
 # guard against empty input
 # avoid re-reading the config on every call
 # guard against empty input
+# guard against empty input
