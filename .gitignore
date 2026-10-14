@@ -11,3 +11,4 @@ tmp/
 coverage/
 *.tmp
 .pytest_cache/
+.vscode/
